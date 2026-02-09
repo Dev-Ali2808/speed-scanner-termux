@@ -1,0 +1,4 @@
+|0000|DADOS_DA_EMPRESA|
+Linha errada sem pipes
+|9999|FIM_DO_ARQUIVO|
+
